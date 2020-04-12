@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586610609 source:c:\users\fer_s\downloads\programs\facedetection\main.cpp
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/core/types_c.h>
+	<iostream>
+	<stdio.h>
+
